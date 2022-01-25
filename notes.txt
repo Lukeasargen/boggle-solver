@@ -1,0 +1,19 @@
+
+image processing
+detect board
+determine grid size
+sample each grid into thumbnails
+ocr on each thumbnail
+can have multiple letters on thumbnail
+
+display detected board to user
+allow user to make any changes
+
+option to choose blank space or dead space
+_ = blank space, any letter
+. = dead space, no letter
+
+return the path of each found word
+
+don't count duplicates for the total word count
+
